@@ -4,7 +4,7 @@
 # Custom hosts list from loads of places, including own findings, for personalDNSfilter and Portmaster, which I very much recommend.
 # This hosts list can be used for other programs that use the 1 domain per line 'example.com' scheme to block stuff.
 
-# Date: 8 April 2023
+# Date: 6 May 2023
 
 # This hosts list blocks:
 #	- Trackers

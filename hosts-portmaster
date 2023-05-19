@@ -4,7 +4,7 @@
 # Custom hosts list from loads of places, including own findings, for personalDNSfilter and Portmaster, which I very much recommend.
 # This hosts list can be used for other programs that use the 1 domain per line 'example.com' scheme to block stuff.
 
-# Date: 6 May 2023
+# Date: 8 May 2023
 
 # This hosts list blocks:
 #	- Trackers
@@ -432,6 +432,9 @@ jillyjuice.com
 fairplayforwomen.com
 realcharlielawson.com
 lovendal.ro
+todayisamerica.com
+thetruthgazette.com
+passthepuck.net
 
 # Actual delusion. No seriously, actual fucking delusion on this website. Save your sanity :)
 ixabert.com
@@ -508,7 +511,7 @@ redirectioneaza.ro
 # --- Scams / Crypto / NFTs / Andrew Tate 'Alpha Male' type scams ---
 
 supercoach.heraldsun.com.au
-
+bestdatingnew.top
 ovb.zoom.us
 lifemathmoney.gumroad.com
 creation247.gumroad.com
@@ -996,6 +999,8 @@ bluewallet.io
 coldcad.com
 fancourier-tracking.com
 fancouriertracking.com
+potas-rmoana.net
+posta-rmoana.net
 romania.nistru-prut.info
 nistru-prut.info
 skarptechnologies.com
@@ -1016,6 +1021,15 @@ communitycoins.org
 star.pse.com
 pse.com
 eliquorexpress.co.za
+getthingshere.xyz
+highrevenuegate.createsocialcard.top
+createsocialcard.top
+cvmaker.ro
+tes.com
+khaddavi.net
+ghostlii.com
+stai-acasa.com
+space-speaker.co
 
 #Dropshipping scams, fake or generic Chinese-run "store sells decorative items, household items for daily use" scams
 bazu.co
@@ -1510,6 +1524,9 @@ favbet.partners
 favbet.ro
 favbet.com
 msjanejenkins.com
+jesusen1.blogspot.com
+springreen.in
+sprin-g-reen.github.io
 
 # --- Fake pirate / torrenting websites ---
 steamunlocked.eu
@@ -1678,6 +1695,7 @@ gongshu.gov.cn
 dzrb.dzng.com
 dzng.com
 
+edp445.com
 carrd.co
 vsco.co
 swiy.co

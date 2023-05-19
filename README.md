@@ -17,7 +17,7 @@ Website filterlist that you can use with Portmaster, personalDNSfilter and any o
 10. It should say 'Building index with (x) entries completed!' after it finished. Enjoy!
   
 ## Portmaster
-0. Two ways of getting the portmaster-hosts file: Download the repository OR open the https://raw.githubusercontent.com/alextecplayz/filterlist/main/hosts-portmaster link, CTRL+A, CTRL+C, open a text editing program, create a file with whatever naming you want, CTRL+V to paste the contents there. Save the file at your desired location. This is **important**!
+0. Three ways of getting the portmaster-hosts file: Download the repository, the hosts-portmaster raw file OR open the https://raw.githubusercontent.com/alextecplayz/filterlist/main/hosts-portmaster link, CTRL+A, CTRL+C, open a text editing program, create a file with whatever naming you want, CTRL+V to paste the contents there. Save the file at your desired location. This is **important**!
 1. Open Portmaster
 2. Click on Settings
 3. Click on 'Privacy Filter' in the sidebar, then on 'Filter Lists' or just scroll to it

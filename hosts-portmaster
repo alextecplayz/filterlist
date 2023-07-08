@@ -22,14 +22,10 @@
 # SPECIAL CATEGORY: SERVICE FUNCTIONALITY
 # BLOCK THESE IF YOU DON'T NEED THEM
 # Whitelist on Portmaster works by adding the '#' character before a domain (basically commenting the line)
-# Whitelist on personalDNSfilter works by adding the '!' character before a line
-
-
+# Whitelist on personalDNSfilter works by adding the '!' character before a line or commenting the line with '#'
 
 # === Functionality for Microsoft Edge, Windows Update, XBOX Achievements (tracking & unlocking), XBOX Chat, XBOX Help UI, XBOX Console functionality
-
 # If you remove the '# ' from some of these, you will NOT be able to unlock XBOX achievements. Tested using Minecraft for Windows 10, Forza Horizon 4, Minecraft for Android.
-
 # v10c.events.data.microsoft.com
 # v10.events.data.microsoft.com
 # v20.events.data.microsoft.com
@@ -59,7 +55,6 @@
 # xbox.ipv6.microsoft.com
 
 # = MS functionality
-
 # activity.windows.com
 # msftncsi.com
 # ipv6.msftncsi.com
@@ -81,9 +76,7 @@
 # dc.services.visualstudio.com
 # officeclient.microsoft.com
 
-
 # === Apple functionality for iTunes, AppleID
-
 # itunes.apple.com
 # mzstatic.com
 # appleid.apple.com
@@ -94,58 +87,36 @@
 # apple.com
 # appleiphonecell.com
 
-
-
 # === Android (some functionality)
-
 # connectivitycheck.android.com
 # android.clients.google.com
 # clients3.google.com
 # connectivitycheck.gstatic.com
 
-
-
 # === Spotify
-
 # spclient.wg.spotify.com
 # apresolve.spotify.com
 # api-tv.spotify.com
 
-
-
 # === Dropbox
-
 # dl.dropboxusercontent.com
 # ns1.dropbox.com
 # ns2.dropbox.com
 
-
-
 # === NVIDIA GeForce NOW
-
 # gfwsl.geforce.net
 
-
-
 # === Rockstar Games
-
 # prod.telemetry.ros.rockstargames.com
 
-
-
 # === Epic Games
-
-# tracking.epicgames.com
+tracking.epicgames.com
 
 # === Playstation
-
 # telemetry-console.api.playstation.com
 # gldp01.c-wss.com
 
-
-
 # === reddit
-
 # styles.redditmedia.com
 # redditstatic.com
 # reddit.map.fastly.net
@@ -153,30 +124,21 @@
 # reddit-uploaded-media.s3-accelerate.amazonaws.com
 # redd.it
 
-
-
 # === Twitter
-
 # twitter.com
 # upload.twitter.com
 # api.twitter.com
 # mobile.twitter.com
 # cdn.syndication.twimg.com
-# ads-api.twitter.com
+ads-api.twitter.com
 # video.twimg.com
 # pbs.twimg.com
 # t.co
 
-
-
 # === WhatsApp
-
 # wa.me
 
-
-
 # === Signal
-
 # ud-chat.signal.org
 # chat.signal.org
 # storage.signal.org
@@ -194,24 +156,28 @@
 # whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 # cds.s5x3j6q5.hwcdn.net
 
-
-
 # HITMAN servers
 # hitman.io
 # hm3.service.hitman.io
 # -------------------------------------------------------
 
-# List begin
+# Begin list
 
 # ------- Categories -------
 
 # --- Political websites / Fake news / Terrible news websites / Medical disinfo or misinfo, medi scams ---
+# --- Religion / Beliefs / Cults ---
+# --- Conspiracies / Nutcases --
 
 # Extreme right / Fascist parties in Romania
 partidulneamulromanesc.ro
 partidulaur.ro
 partidulromaniamare.ro
 nouadreapta.org
+
+# Newspaper paid to spread far-right AUR news
+bzi.ro
+arhiva.bzi.ro
 
 # Common 'patriot' US websites that aren't actually patriotic in the slightest
 defendkidstx.com
@@ -433,12 +399,18 @@ lovendal.ro
 todayisamerica.com
 thetruthgazette.com
 passthepuck.net
-
+godhatesfags.com
+godhatesamerica.com
 # Actual delusion. No seriously, actual fucking delusion on this website. Save your sanity :)
 ixabert.com
-
-# --- Religion / Beliefs / Cults ---
-
+supersoldiertalk.com
+supersoldiercoalition.org
+neologicaltech.com
+seekingthetruthinr.wixsite.com
+davidlotherington.com
+psionicleague.com
+thekarmicpath.com
+sedonanewagestore.com
 creation.com
 skyview.design
 universalconsciousness.net
@@ -505,6 +477,7 @@ arhiva.formula-as.ro
 basilica.ro
 bzb.ro
 redirectioneaza.ro
+mormon.org
 
 # --- Scams / Crypto / NFTs / Andrew Tate 'Alpha Male' type scams ---
 
@@ -1028,6 +1001,19 @@ khaddavi.net
 ghostlii.com
 stai-acasa.com
 space-speaker.co
+teslagrant.net
+freeminecraftgiftcode.net
+chatany.world
+saldodana.xyz
+sunnyside.co
+ja.ma
+hoka.com
+jarroddeaton.com.au
+#Dangerous HRT grift
+estrolabs.com
+queerquirk.com
+#Astrology BS
+chani.com
 
 #Dropshipping scams, fake or generic Chinese-run "store sells decorative items, household items for daily use" scams
 bazu.co
@@ -1127,6 +1113,8 @@ senstores.com
 viralstyle.com
 wake.energy
 voyagedealz.com
+moteefe.com
+zela.co
 
 # Fake post scam that gives you Omega-3 capsules for free* if you pay for the shipping. Feel free to spam their mail or phone at: +40312297444, info@nordicmed.ro
 nordicmed.ro
@@ -1531,6 +1519,8 @@ jesusen1.blogspot.com
 springreen.in
 sprin-g-reen.github.io
 actualno.com
+number1victimofcrime.com
+firemansuperhero.com
 
 # 18+ spam, scams, whatever
 onlyfans.com
@@ -1555,6 +1545,14 @@ buupe.com
 encurtador.com.br
 in5sec.com
 opylust.com
+buymyshit.moneygrubbingwhore.com
+moneygrubbingwhore.com
+gamingadult.com
+tm-offers.gamingadult.com
+xlivrdr.com
+go.slivrdr.com
+kgfjrb711.com
+pomoumtoo.com
 
 # --- Fake pirate / torrenting websites ---
 steamunlocked.eu
@@ -1624,7 +1622,31 @@ key.pcsx4.com
 pcsx4.com
 1776hosting.com
 
+# -- Known malware domains --
+mydigitalcoin.info
+afterburners-msi.com
+afterburner-download.org
+express-vpns.biz
+express-vpns.cloud
+express-vpns.fun
+express-vpns.online
+express-vpns.pro
+express-vpns.xyz
+anydesk24.com
+
 # Other
+
+# Fake legal services / legal service ads
+bucherlawfirm.com
+
+# Facebook/Meta
+# Also preemptively block Barcelona
+facebook.com
+instagram.com
+threads.net
+
+# Mental illness
+flatearth.ws
 
 # Book boycott (These publishers sued Internet Archive)
 penguinrandomhouse.com
@@ -1680,8 +1702,10 @@ thiccmommies.com
 marina-1-shop.forthwall.com
 clck.steepto.com
 steepto.com
+shadbase.com
 
 # China/CCP
+tiktok.com
 chinadaily.com.cn
 chinadaily.com
 chinadaily.cn

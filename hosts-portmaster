@@ -348,8 +348,10 @@ padmakumara.org
 shicheng.org
 truebuddhaschool.org
 duihua.org
+cefonline.com
 
-# Medical scams, alt-med, disinfo, misinfo
+# Medical scams, alt-med, disinfo, misinfo, medical scareware and clickbait
+doctorulzilei.ro
 nbnlmedicalcenter.com
 newdirectionspgh.com
 ndbh.com
@@ -1327,7 +1329,6 @@ unistal.com
 bytefence.com
 iobit.com
 forums.iobit.com
-totalav.com
 avira.com
 my.avira.com
 support.avira.com
@@ -1350,6 +1351,16 @@ k7academy.com
 #shop.trendmicro.com
 #store.trendmicro.com
 #success.trendmicro.com
+# TotalAV, ProtectedNet, anything related to this front for a malware producer
+# https://www.reddit.com/r/antivirus/comments/dwlnlf/comment/f9yi1ab/?utm_source=share&utm_medium=web2x&context=3
+totalav.com
+affiliates.totalav.com
+pcprotect.com
+scanguard.com
+ultravpn.com
+safevpn.com
+privacyweb.com
+virusbulletin.com
 
 # --- Tracking, Ads, Privacy Invasion ---
 

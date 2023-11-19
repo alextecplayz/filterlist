@@ -178,31 +178,10 @@ programaur.ro
 georgesimion.ro
 partidulromaniamare.ro
 nouadreapta.org
-# "Independent publications" paid by political parties
-5news.ro
-political.ro
-anchetatorii.ro
-comentatorii.ro
-patriotii.ro
-economistii.ro
-presaliberă.ro
-xn--presaliber-qgb.ro
-gazetarii.ro
-criticii.ro
-politicalinsider.ro
-curierulromanesc.ro
-temazilei.ro
-4media.info
-digipres.ro
-agentiadeinformatii.ro
-actiunea.ro
-60m.ro
-propublica.ro
-presaromaneasca.ro
+claudiutarziu.ro
 
-# Newspaper paid to spread far-right AUR news
-bzi.ro
-arhiva.bzi.ro
+# Political parties BS
+partidularca.ro
 
 # Common 'patriot' US websites that aren't actually patriotic in the slightest
 defendkidstx.com
@@ -305,6 +284,7 @@ sapphoqreviews.blogspot.com
 thebattleisreal.org
 liberator.net
 oneplace.com
+andrreistr.com
 
 # Cults (actual cults, not 'cults')
 gaia.com
@@ -429,6 +409,8 @@ react19.org
 vigilantfox.substack.com
 vigilantnews.com
 kreately.in
+doterra.com
+life-bio.ro
 
 # 'News' websites, politically-biased news websites, news websites paid or owned by political parties, etc.
 foxnews.com
@@ -622,6 +604,32 @@ oeui.live
 cefindiana.com
 formula-as.ro
 arhiva.formula-as.ro
+5news.ro
+political.ro
+anchetatorii.ro
+comentatorii.ro
+patriotii.ro
+economistii.ro
+presaliberă.ro
+xn--presaliber-qgb.ro
+gazetarii.ro
+criticii.ro
+politicalinsider.ro
+curierulromanesc.ro
+temazilei.ro
+4media.info
+digipres.ro
+agentiadeinformatii.ro
+actiunea.ro
+60m.ro
+propublica.ro
+presaromaneasca.ro
+constantareala.com
+constantareala.ro
+bzi.ro
+arhiva.bzi.ro
+directmm.ro
+primasport.ro
 
 # Anti-LGBTQIA2S+ stuff, rep/con-led websites
 godhatesfags.com
@@ -1439,8 +1447,6 @@ k7academy.com
 #shop.trendmicro.com
 #store.trendmicro.com
 #success.trendmicro.com
-# TotalAV, ProtectedNet, anything related to this front for a malware producer
-# https://www.reddit.com/r/antivirus/comments/dwlnlf/comment/f9yi1ab/?utm_source=share&utm_medium=web2x&context=3
 totalav.com
 affiliates.totalav.com
 pcprotect.com
@@ -1454,7 +1460,6 @@ ssprotectltd.com
 antivirustop10.com
 majorav.com
 cybernews.com
-
 surfshark.com
 1vpn.io
 
@@ -1753,6 +1758,8 @@ jdoqocy.com
 anrdoezrs.net
 clinic.amazon.com
 identimetrics.net
+# Sunbird and Nothing Chats are literally a privacy nightmare, the messages and images are unencrypted, plus now that Apple finally bit the bullet and started implementing GSMA RCS, there's no need to use either app
+sunbirdapp.com
 
 # --- Spam ---
 safaritrouble.com
@@ -1818,10 +1825,13 @@ cmebib7ea1sgt0.r277e-68a9.fdwdhded.tk
 r277e-68a9.fdwdhded.tk
 fdwdhed.tk
 purefoolery.com
-
-# Overtaken by some vietnamese sports TV site named xoilac (below)
+noutati24.ro
+appurl.io
+silvets.ro
+sfaturinaturiste.ro
+lataifas.ro
+noutati24romania.blogspot.com
 whatcanidoformozilla.org
-
 xoilac.org
 xoilac.gg
 xoilac789.tv
@@ -1949,8 +1959,7 @@ xoilac.xoilac61.org
 xoilac61.org
 futureoftheparty.com
 tructiep-90p01.com
-
-# 18+ spam, scams, whatever
+s9.ro
 onlyfans.com
 fansly.com
 sexnetcash.com
@@ -1996,6 +2005,15 @@ whatsapp32.repl.co
 cbidfci.hornymeetsonline.com
 hornymeetsonline.com
 rb.gy
+zztt15.com
+taplink.cc
+tina-valentin.babblehello.online
+babblehello.online
+georginawilde.quest
+8671f037d.georginawilde.quest
+brazidelux.net
+proredus.ro
+10-favorites.com
 
 # --- Fake pirate / torrenting websites ---
 steamunlocked.eu
@@ -2343,6 +2361,54 @@ gongshu.gov.cn
 dzrb.dzng.com
 dzng.com
 cecc.gov
+
+# Uncategorized, will sort someday
+imobiliare.ro
+ackermann-institutet.se
+reserve-online.net
+updatednewslink.com
+pinner.ro
+montepalazzo.ro
+thenestcluj.ro
+compariimobiliare.ro
+neoimobiliare.ro
+blitz.ro
+oradesibiu.ro
+weltimobiliare.ro
+avatraderesidence.ro
+gustos.ro
+divahair.ro
+remediiuitate.ro
+soporuluiunu.ro
+renovat.ro
+lunamasaj.ro
+alephnews.ro
+thinkific.com
+eyes-aid.com
+antena3.ro
+amva.ro
+romaniamag.ro
+depozitacasa.ro
+radiobanateanu.ro
+revista-ferma.ro
+divainbucatarie.ro
+subcetate-apartament.ro
+family-service.club
+calla.ro
+ralucahagiu.ro
+teatrulavangardia.ro
+carausul.ro
+lancome.com
+lancome.ro
+dorianatalpes.ro
+supercazino.ro
+gsp.ro
+jocpacanele.ro
+smilo.ro
+putereamintii.ro
+gr8.tech
+secretele.com
+optiplaza.ro
 
 dukesmayo.com
 edp445.com

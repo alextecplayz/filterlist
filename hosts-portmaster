@@ -1760,6 +1760,15 @@ clinic.amazon.com
 identimetrics.net
 # Sunbird and Nothing Chats are literally a privacy nightmare, the messages and images are unencrypted, plus now that Apple finally bit the bullet and started implementing GSMA RCS, there's no need to use either app
 sunbirdapp.com
+sunbird.vercel.app
+monarch.sunbirdapp.com
+bluebubblemessaging-dev.firebaseapp.com
+bluebubblemessaging-dev-default-rtdb.firebaseapp.com
+bluebubblemessaging.firebaseapp.com
+bluebubblemessaging-dev.appspot.com
+ingest.sentry.io
+o1331178.ingest.sentry.io
+sentry.io
 
 # --- Spam ---
 safaritrouble.com

@@ -8,7 +8,7 @@ Website filterlist that you can use with Portmaster, personalDNSfilter and any o
 1. Open personalDNSfilter
 2. Tap on 'Advanced settings'
 3. Tap on 'Configure filter update'
-4. At the bottom of the list, where it says <new> <new> and a crayon button, click on the blue crayon button to edit the entry
+4. At the bottom of the list, where it says \<new> (Name column), \<new> (URL column) and a crayon button, click on the blue crayon button to edit the entry
 5. In 'Category' and 'Name' add whatever you like. Personally I use 'AlexTECPlayz' and 'AlexTEC`s custom filterlist'
 6. In 'URL' put the 'https://raw.githubusercontent.com/alextecplayz/filterlist/main/hosts-portmaster' link.
 7. Tap on the 'Active' checkbox then on the Tick button

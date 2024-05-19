@@ -11,6 +11,7 @@
 #	- Shady websites
 #	- Scams (Crypto, NFTs, general scams)
 #	- Ads
+#	- AI slop
 #	- US .gov websites (If you have to visit any of these, unblock them by putting a '# ' in front of [site.gov])
 #	- China, other governments
 
@@ -236,6 +237,7 @@ learnreligions.com
 themonastery.org
 ortodoxinfo.ro
 patriarhia.ro
+basilica.ro
 historyforatheists.com
 orthochristian.com
 orthodoxethos.com
@@ -359,6 +361,10 @@ info-spiritual.ro
 anatecor.ro
 radicalpursuitministries.com
 newopenforum.org
+dove.org
+christiancinema.com
+centru-crestin.ro
+aflaadevarul.ro
 
 # Cults (actual cults, not 'cults')
 urantia.org
@@ -766,9 +772,12 @@ karilake.com
 endthewokeness.com
 hegetsus.com
 sbckjv.com
+purelifeministries.org
 # EXTREMELY DANGEROUS conservative project
 project2025.org
 heritage.org
+# Dangerous Romanian 'coalition'
+familiesilibertate.ro
 
 # --- Scams / Crypto / NFTs / MLMs / Pyramid Schemes / 'Alpha Male' scams ---
 
@@ -1393,6 +1402,7 @@ eu.healy.shop
 quantyme.site
 copyaccelerator.com
 join.copyaccelerator.com
+aurorastore.org
 
 #Dangerous HRT grift
 estrolabs.com
@@ -2191,6 +2201,10 @@ go-root.top
 linkprotect.cudasvc.com
 cudasvc.com
 vrgiugwiym-xn----90au9ce-xn----p1ai.translate.goog
+zhdsydsejudsk.ozpskdxdezf.animo01.fr
+ozpskdxdezf.animo01.fr
+animo01.fr
+usps-us.art
 # found by @Frieren@mastodon.social
 ismatch.ru
 vortex.ismatch.ru
@@ -2201,13 +2215,12 @@ f1625.thyte0.com
 thyte0.com
 xuo.t4o61.com
 t4o61.com
-# Fraudulent 'entertainment'/'games' ghost websites
-# https://new.reddit.com/r/Romania/comments/1bex8en/cum_orange_digi_telekom_si_vodafone_accepta_sa/
 tujocuri.eu
 funnielands.com
 floureeshlands.com
 karmata.net
 atapexmobsgl.com
+scaffoldactiviststandingas.pro
 
 # --- Fake pirate / torrenting websites ---
 steamunlocked.eu
@@ -2288,6 +2301,14 @@ express-vpns.online
 express-vpns.pro
 express-vpns.xyz
 anydesk24.com
+
+# --- AI or regular slop, garbage ---
+onexception.dev
+cryptoslate.com
+hoiabaciuforest.com
+montblanczone.com
+geotrekking.ro
+ghidturistic.ro
 
 # Other
 

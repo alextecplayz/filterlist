@@ -5,170 +5,28 @@
 # This hosts list can be used for other programs that use the 1 domain per line 'example.com' scheme to block stuff.
 
 # This hosts list blocks:
-#	- Trackers
-#	- Spyware
-#	- Fake news / Propaganda
-#	- Shady websites
-#	- Scams (Crypto, NFTs, general scams)
-#	- Ads
-#	- AI slop
-#	- US .gov websites (If you have to visit any of these, unblock them by putting a '# ' in front of [site.gov])
-#	- China, other governments
+# - Political extremes
+# - Typical political parties BS
+# - Common 'patriot' US websites that aren't patriotic, actually
+# - Conspiracies
+# - Extreme religious websites
+# - Typical religious crap
+# - ACTUAL Cults
+# - Medical scams, alternative medicine, misinfo, disinfo, lies
+# - Politically biased news websites
+# - Anti-GSRM stuff
+# - Scams, NFTs, Crypto Scams, Alpha Male / masculinity garbage
+# - Spam
+# - Phishing (both personal experience and from urlDNA.io posts on Fedi)
+# - Ads, Tracking
+# - Fake pirate websites
+# - Known malware domains
+# - regular and AI slop
+# - Other
 
 # NOTE: This list doesn't guarantee the sites will work, nor does it guarantee privacy or security. I tried my best, but I still recommend using this list alongside other popular blocklists, and other privacy-protecting services, tools, whatever.
 
-# -------------------------------------------------------
-
-# Whitelist
-# SPECIAL CATEGORY: SERVICE FUNCTIONALITY
-# BLOCK THESE IF YOU DON'T NEED THEM
-# Whitelist on Portmaster works by adding the '#' character before a domain (basically commenting the line)
-# Whitelist on personalDNSfilter works by adding the '!' character before a line or commenting the line with '#'
-
-# === Functionality for Microsoft Edge, Windows Update, XBOX Achievements (tracking & unlocking), XBOX Chat, XBOX Help UI, XBOX Console functionality
-# If you remove the '# ' from some of these, you will NOT be able to unlock XBOX achievements. Tested using Minecraft for Windows 10, Forza Horizon 4, Minecraft for Android.
-# v10c.events.data.microsoft.com
-# v10.events.data.microsoft.com
-# v20.events.data.microsoft.com
-# web.vortex.data.microsoft.com
-# v10.vortex-win.data.microsoft.com
-# v20.vortex-win.data.microsoft.com
-# wdcp.microsoft.com
-# wdcpalt.microsoft.com
-# tsfe.trafficshaping.dsp.mp.microsoft.com
-# mobile.pipe.aria.microsoft.com
-# vortex.data.microsoft.com
-# self.events.data.microsoft.com
-# xboxlive.com
-# eds.xboxlive.com
-# help.ui.xboxlive.com
-# notify.xboxlive.com
-# def-vef.xboxlive.com
-# xkms.xboxlive.com
-# cert.mgt.xboxlive.com
-# xflight.xboxlive.com
-# xboxexperiencesprod.experimentation.xboxlive.com
-# attestation.xboxlive.com
-# title.auth.xboxlive.com
-# xsts.auth.xboxlive.com
-# title.mgt.xboxlive.com
-# device.auth.xboxlive.com
-# xbox.ipv6.microsoft.com
-
-# = MS functionality
-# activity.windows.com
-# msftncsi.com
-# ipv6.msftncsi.com
-# g.live.com
-# dl.delivery.mp.microsoft.com
-# geo-prod.do.dsp.mp.microsoft.com
-# displaycatalog.mp.microsoft.com
-# sls.update.microsoft.akadns.net
-# fe3.delivery.dsp.mp.microsoft.com.nsatc.net
-# tlu.dl.delivery.mp.microsoft.net
-# msedge.api.cdp.microsoft.com
-# clientconfig.passport.net
-# arc.msn.com
-# client-s.gateway.messenger.live.com
-# ctldl.windowsupdate.com
-# browser.events.microsoft.com
-# browser.pipe.aria.microsoft.com
-# halowaypoint.com
-# dc.services.visualstudio.com
-# officeclient.microsoft.com
-
-# === Apple functionality for iTunes, AppleID
-# itunes.apple.com
-# mzstatic.com
-# appleid.apple.com
-# gsp-ssl.ls.apple.com
-# gsp-ssl.ls.apple.com.akadns.net
-# captive.apple.com
-# gsp1.apple.com
-# apple.com
-# appleiphonecell.com
-
-# === Android (some functionality)
-# connectivitycheck.android.com
-# android.clients.google.com
-# clients3.google.com
-# connectivitycheck.gstatic.com
-
-# === Spotify
-# spclient.wg.spotify.com
-# apresolve.spotify.com
-# api-tv.spotify.com
-
-# === Dropbox
-# dl.dropboxusercontent.com
-# ns1.dropbox.com
-# ns2.dropbox.com
-
-# === NVIDIA GeForce NOW
-# gfwsl.geforce.net
-
-# === Rockstar Games
-# prod.telemetry.ros.rockstargames.com
-
-# === Epic Games
-tracking.epicgames.com
-
-# === Playstation
-# telemetry-console.api.playstation.com
-# gldp01.c-wss.com
-
-# === reddit
-# styles.redditmedia.com
-# redditstatic.com
-# reddit.map.fastly.net
-# redditmedia.com
-# reddit-uploaded-media.s3-accelerate.amazonaws.com
-# redd.it
-
-# === Twitter
-# twitter.com
-# upload.twitter.com
-# api.twitter.com
-# mobile.twitter.com
-# cdn.syndication.twimg.com
-ads-api.twitter.com
-# video.twimg.com
-# pbs.twimg.com
-# t.co
-
-# === WhatsApp
-# wa.me
-
-# === Signal
-# ud-chat.signal.org
-# chat.signal.org
-# storage.signal.org
-# signal.org
-# updates2.signal.org
-# textsecure-service-whispersystems.org
-# giphy-proxy-production.whispersystems.org
-# cdn.signal.org
-# souqcdn.org
-# cms.souqcdn.com
-# api.directory.signal.org
-# contentproxy.signal.org
-# turn1.whispersystems.org
-# d83eunklitikj.cloudfront.net
-# whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
-# cds.s5x3j6q5.hwcdn.net
-
-# HITMAN servers
-# hitman.io
-# hm3.service.hitman.io
-# -------------------------------------------------------
-
-# Begin list
-
-# ------- Categories -------
-
-# --- Political websites / Fake news / Terrible news websites / Medical disinfo or misinfo, medi scams ---
-# --- Religion / Beliefs / Cults ---
-# --- Conspiracies / Nutcases --
+# Also note that enumerating badness is not the best way to go, unless you need it for your specific use case. It would be better to block everything by default, and then slowly built a whitelist of the sites you actually visit. That way, most phishing, ads, tracking, scams, can be - by default - blocked.
 
 # Political extremes
 comunitateaidentitara.com
@@ -774,6 +632,7 @@ hegetsus.com
 sbckjv.com
 purelifeministries.org
 boundingintocomics.com
+thatparkplace.com
 # EXTREMELY DANGEROUS conservative project
 project2025.org
 heritage.org
@@ -1522,10 +1381,6 @@ emrss.com
 atmosure.com
 woremor.com
 
-# Useful for crypto / NFT rug pulls, scam research or to make fun of the ugly NFTs
-# opensea.io
-# etherscan.io
-
 # Musk & Co scams
 tesla.com
 ts.la
@@ -1536,7 +1391,7 @@ neuralink.com
 solarcity.com
 
 # --- Horrible Antiviruses & Horrible AV / Security websites ---
-# The only good AVs are Kaspersky, Bitdefender, ESET, HitmanPro | Scanners: Malwarebytes
+# The only AVs you should trust are Kaspersky, Bitdefender, ESET, HitmanPro | Scanners: Malwarebytes
 computerforensicsworld.com
 mcafee.com
 download.mcafee.com
@@ -1648,7 +1503,10 @@ crashlytics.com
 presage.io
 appsflyer.com
 # MSEdge tracking domains from niutech's GitHub Gist
-# WARNING! This WILL block MSEdge updates on Windows, BING, MSN, SKYPE, Windows Feedback, and potentially critical functionality of other Windows or Microsoft websites, apps. Please check this portion for yourself and remove or whitelist/comment anything that you might use.
+# WARNING! This WILL block MSEdge updates on Windows, Bing, MSN, Skype, Windows Feedback, 
+# and potentially critical functionality of other Windows or Microsoft websites, apps. 
+# Please check this portion for yourself and remove or whitelist/comment anything that 
+# you might use.
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -1893,7 +1751,12 @@ jdoqocy.com
 anrdoezrs.net
 clinic.amazon.com
 identimetrics.net
-# Sunbird and Nothing Chats are literally a privacy nightmare, the messages and images are unencrypted, plus now that Apple finally bit the bullet and started implementing GSMA RCS, there's no need to use either app
+# Sunbird and Nothing Chats are literally a privacy nightmare, 
+# the messages and images are unencrypted, plus now that Apple 
+# finally bit the bullet and started implementing GSMA RCS, 
+# there's no need to use either app. Avoid other all-in-one
+# social media / IM apps as well. Who knows how trustworthy
+# they are, if at all
 sunbirdapp.com
 sunbird.vercel.app
 monarch.sunbirdapp.com
@@ -2222,6 +2085,50 @@ floureeshlands.com
 karmata.net
 atapexmobsgl.com
 scaffoldactiviststandingas.pro
+# From urlDNA.io on Fedi
+43.156.75.220
+safwanbackar.github.io
+dgtalboost.com
+login-vip.replit.app
+pub-5287bb05bc8149adadd508ff20a600e4.r2.dev
+bac5f7218dda4303a5820e4328ce0abb.r2.dev
+ab14372d3fe44c7ba3fe5fac42404ccb.r2.dev
+metamoskwallte.github.io
+poli.ogfox.workers.dev
+comsbisezsignin.gitbook.io
+discountofficenational.com.au
+inc-106029.weeblysite.com
+johnhstngs4.wixsite.com
+zdrhuagh.elementor.cloud
+mysterynftc.vercel.app
+servl-lnt.github.io
+hk.haogougou.uk
+cffdzs.blogspot.fr
+matumiskawalieto.gitbook.io
+netflixqweb.pages.dev
+restarter1233.weeblysite.com
+dogeveerse.pages.dev
+factorjuridico.com
+maikerufurora.github.io
+infoattyjuylkjhgtyillukjhyg5ltoyilkjhuyhg.weebly.com
+bnb.confirm5318.com
+knhjgh.pages.dev
+att-inc-109442.weeblysite.com
+abhishek-kumar-11.github.io
+nbht6fgd.htfmjv8uordfy.workers.dev
+coinbasxqrtolgin.gitbook.io
+warnnig-account-here.vercel.app
+remove-restriction-from-page.github.io
+alibaba-auth.vercel.app
+web.aceasts.sbs
+www.aatwebs.cfd
+attser9823412.weebly.com
+assistancepro7.godaddysites.com
+chrome-extension-web.49854.popmailunteer.com
+worker-frosty-lake-2886.michelle-e9a.workers.dev
+kenneth.chfutyoi.dns-dynamic.net
+5337.zscccf.com
+hello-world-wispy-night-89f4.givititas.workers.dev
 
 # --- Fake pirate / torrenting websites ---
 steamunlocked.eu

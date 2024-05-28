@@ -26,7 +26,7 @@
 
 # NOTE: This list doesn't guarantee the sites will work, nor does it guarantee privacy or security. I tried my best, but I still recommend using this list alongside other popular blocklists, and other privacy-protecting services, tools, whatever.
 
-# Also note that enumerating badness is not the best way to go, unless you need it for your specific use case. It would be better to block everything by default, and then slowly built a whitelist of the sites you actually visit. That way, most phishing, ads, tracking, scams, can be - by default - blocked.
+# Also note that enumerating badness is not the best way to go, unless you need it for your specific use case. It would be better to block everything by default, and then slowly build a whitelist of the sites you actually visit. That way, most phishing, ads, tracking, scams, can be - by default - blocked.
 
 # Political extremes
 comunitateaidentitara.com

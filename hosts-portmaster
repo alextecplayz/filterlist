@@ -89,6 +89,7 @@ lastrealhumans.substack.com
 number1victimofcrime.com
 centerforaninformedamerica.com
 chipstero7.wordpress.com
+spyairline.com
 
 # Extreme religious website in Romania, spreads misinformation
 ortodoxiacatacombe.wordpress.com
@@ -604,6 +605,8 @@ factsforpeace.org
 prageru.com
 evz.ro
 fanatik.ro
+# euronews is owned by a university in Bucharest, and is heavily biased against reporting university incidents
+euronews.ro
 
 # Anti-LGBTQIA2S+ stuff, rep/con-led websites
 godhatesfags.com
@@ -1478,8 +1481,39 @@ sdkconfig.ad.intl.xiaomi.com
 data.mistat.intl.xiaomi.com
 tracking.intl.miui.com
 mitv.tracking.intl.miui.com
+
 # Mozilla
 tracking-protection.cdn.mozilla.net
+mozillamessaging.com
+location.services.mozilla.com
+loop.services.mozilla.com
+push.services.mozila.com
+search.services.mozilla.com
+setup.services.mozilla.com
+shavar.services.mozilla.com
+firefox.settings.services.mozilla.com
+*.services.mozilla.*
+*.services.*.mozilla.com
+*.services.*.*.mozilla.com
+*experiment*.mozilla.*
+*report*.mozilla.*
+*reports*.mozilla.*
+crash-stats.mozilla.*
+data.mozilla.*
+detectportal.*
+experiment.mozilla.*
+experiments.mozilla.*
+getpocket.*
+incoming-telemetry.*
+input.mozilla.*
+fhr.*.mozilla.*
+normandy*moz*
+reporter.mozilla.*
+ostats.mozilla.*
+qsurvey.mozilla.*
+shavar.prod.mozaws.net
+titles.*.mozilla.*
+
 # Prominent trackers used in most apps
 admob.google.com
 singular.net
@@ -1520,11 +1554,13 @@ hockeyapp.com
 crashlytics.com
 presage.io
 appsflyer.com
+
 # MSEdge tracking domains from niutech's GitHub Gist
 # WARNING! This WILL block MSEdge updates on Windows, Bing, MSN, Skype, Windows Feedback, 
 # and potentially critical functionality of other Windows or Microsoft websites, apps. 
 # Please check this portion for yourself and remove or whitelist/comment anything that 
 # you might use.
+a-*.a-msedge.net
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -1535,6 +1571,7 @@ a-0007.a-msedge.net
 a-0008.a-msedge.net
 a-0009.a-msedge.net
 a-msedge.net
+a.ads*.msn*.com
 a.ads1.msn.com
 a.ads2.msads.net
 a.ads2.msn.com
@@ -1722,7 +1759,8 @@ wes.df.telemetry.microsoft.com
 win10.ipv6.microsoft.com
 windows.msn.com
 xpay-int.microsoft.com
-#Continued list
+
+# Continued list
 telemetry.dropbox.com
 s.youtube.com
 incoming.telemetry.mozilla.org

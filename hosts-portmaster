@@ -1,7 +1,7 @@
 # -------------------------------------------------------
 # Title: AlexTEC/hosts
 
-# Custom hosts list from loads of places, including own findings, for personalDNSfilter and Portmaster, which I very much recommend.
+# Custom hosts list from loads of places, including own findings, for personalDNSfilter, BlockAds, Little Snitch, and Portmaster, which I very much recommend.
 # This hosts list can be used for other programs that use the 1 domain per line 'example.com' scheme to block stuff.
 
 # This hosts list blocks:
@@ -425,7 +425,7 @@ eliteslots.ro
 *.eliteslots.ro
 player.ro
 tracker.player.ro
-*.player.ro	
+*.player.ro
 pariuriplus.ro
 tracker.pariuriplus.ro
 *.pariuriplus.ro
@@ -1185,7 +1185,7 @@ establishedtitles.com
 highlandtitles.com
 scotlandtitle.com
 lordship-titles.com
-thescottishgift.com 
+thescottishgift.com
 tsartitles.com
 lairdofblackwood.com
 scottishlands.com
@@ -1724,9 +1724,9 @@ presage.io
 appsflyer.com
 
 # MSEdge tracking domains from niutech's GitHub Gist
-# WARNING! This WILL block MSEdge updates on Windows, Bing, MSN, Skype, Windows Feedback, 
-# and potentially critical functionality of other Windows or Microsoft websites, apps. 
-# Please check this portion for yourself and remove or whitelist/comment anything that 
+# WARNING! This WILL block MSEdge updates on Windows, Bing, MSN, Skype, Windows Feedback,
+# and potentially critical functionality of other Windows or Microsoft websites, apps.
+# Please check this portion for yourself and remove or whitelist/comment anything that
 # you might use.
 a-*.a-msedge.net
 a-0001.a-msedge.net
@@ -1900,7 +1900,7 @@ telecommand.telemetry.microsoft.com.nsatc.net
 telemetry.appex.bing.net
 telemetry.microsoft.com
 telemetry.urs.microsoft.com
-tip.customervoice.microsoft.com 
+tip.customervoice.microsoft.com
 tokenization.cp.microsoft.com
 ui.skype.com
 v10.vortex-win.data.microsoft.com
@@ -1975,9 +1975,9 @@ jdoqocy.com
 anrdoezrs.net
 clinic.amazon.com
 identimetrics.net
-# Sunbird and Nothing Chats are literally a privacy nightmare, 
-# the messages and images are unencrypted, plus now that Apple 
-# finally bit the bullet and started implementing GSMA RCS, 
+# Sunbird and Nothing Chats are literally a privacy nightmare,
+# the messages and images are unencrypted, plus now that Apple
+# finally bit the bullet and started implementing GSMA RCS,
 # there's no need to use either app. Avoid other all-in-one
 # social media / IM apps as well. Who knows how trustworthy
 # they are, if at all
@@ -2511,7 +2511,6 @@ endava.com
 investors.endava.com
 careers.endava.com
 
-
 # Hopefully this becomes illegal
 makeamom.com
 
@@ -2793,6 +2792,102 @@ cecc.gov
 freshblazer.com
 rnnvhtsaniofa.freshblazer.com
 
+astig.ph
+www.ukbreakingnews24x7.com
+www.umlegacypress.com
+quran.com
+clawbox.tech
+firethering.com
+arint.info
+ghisael.lat
+aboutsolution.com
+jagat-cuan-platform-cuan-online.blogspot.com
+jagat-cuan.pages.dev
+stark-industries.solutions
+kenresearch.com
+singlelogin.re
+pl28277825.effectivepmnetwork.com
+*.effectivepmnetwork.com
+effectivepmnetwork.com
+phaseostentatious.com
+thedemocracyadvocate.com # AI slop, owner is an AI bro that didn't like me calling out the fact that it is an AI slop website
+mandarapte.com
+minecraftmienphi.net
+blazetrends.com
+ldit.online
+thomaster.substack.com
+www.valterscapital.com
+www.valtersit.com
+between-two-firewalls.com # AI slop
+burbsec.com
+cesardaw.gumroad.com
+ohmedia.my
+miamitech.club
+dailygrail.com
+sospoilt.com
+shadowfetch.com
+0x5f.sh
+gameloop.gg
+fapem.top
+www.jobkey.in
+jobkey.in
+rokojori.com
+docs.huihoo.com
+huihoo.com
+www.theindex.it
+mooddrafts.com
+lockstack.net
+bezpeka.media
+join.nordpass.com
+nordpass.com
+blog.andymasley.com
+andymasley.com
+pickuma.com
+freedocumentmaker.com # AI slop
+aidocsuite.com # AI slop
+www.audioexcellence.ae
+meusitehostigator.com.br
+2h.ae
+sl1nk.com
+iam.fabiograsso.net
+gettrail.quest
+existigo.com
+www.groupbuyseotools.net
+tentkotta.com
+labforge.tech
+blog.byte-guard.net
+byte-guard.net
+www.html-load.com
+html-load.com
+www.error-report.com
+error-report.com
+www.ad-shield.io
+ad-shield.io
+joealongi.dev
+headlines-world.com
+aepiot.ro
+sylvaindenis.ovh
+deepwiki.com
+ctsd.de
+blog.intercomassets.com
+www.intercom.com
+vercel.intercom.com
+fin.ai
+ericfoltin.com
+lovenly.online
+www.scientificworldinfo.com
+scientificworldinfo.com
+skmohindroo5.wordpress.com
+sanjaymohindroo.wordpress.com
+sm.stayingalive.in
+stayingalive.in
+buysellram.com
+noticiasdeprimera.com
+gadgetflux.eu
+trendingalone.blogspot.com
+watale.com
+leedeo.net
+chills.gg
 cultofmac.com
 blog-demokratie.com
 star-news.press
